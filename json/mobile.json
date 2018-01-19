@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "name": "Apple iPhone 7 (Black, 32 GB)",
+    "link": "../images/mobile1.jpg",
+    "desc": "32 GB ROM | 4.7 inch Retina HD Display 12MP Rear Camera | 7MP Front Camera Li-Ion Battery A10 Fusion Chip with 64-bit Architecture and Embedded M10 Motion Co-processor Processor",
+    "price": 45999,
+    "star": "../images/4.5-Star.png"
+}, {
+    "id": 2,
+    "name": "Samsung Galaxy J3 Pro (Gold, 16 GB)  (2 GB RAM)",
+    "link": "../images/mobile2.jpeg",
+    "desc": "2 GB RAM | 16 GB ROM | Expandable Upto 128 GB 5 inch HD Display 8MP Rear Camera | 5MP Front Camera 2600 mAh Battery Spreadtrum Processor 1.5 GHz Quad Core",
+    "price": 7990,
+    "star": "../images/4-Star.png"
+}, {
+    "id": 3,
+    "name": "Apple iPhone 6s (Space Grey, 32 GB)",
+    "link": "../images/mobile3.jpeg",
+    "desc": "32 GB ROM | 4.7 inch Retina HD Display 12MP Rear Camera | 5MP Front Camera 1715 mAh Li-Ion Battery A9 Chip with 64-bit Architecture and M9 Motion Co-processor Processor",
+    "price": 35999,
+    "star": "../images/4-Star.png"
+}, {
+    "id": 4,
+    "name": "Moto G5 Plus (Lunar Grey, 32 GB)  (4 GB RAM)",
+    "link": "../images/mobile4.jpeg",
+    "desc": "4 GB RAM | 32 GB ROM | Expandable Upto 128 GB 5.2 inch Full HD Display 12MP Rear Camera | 5MP Front Camera 3000 mAh Battery Qualcomm Snapdragon 625 Processor",
+    "price": 16999,
+    "star": "../images/4-Star.png"
+}, {
+    "id": 5,
+    "name": "OPPO F3 (Black, 64 GB)  (4 GB RAM)",
+    "link": "../images/mobile5.jpeg",
+    "desc": "4 GB RAM | 64 GB ROM | Expandable Upto 128 GB 5.5 inch Full HD Display 13MP Rear Camera | 16MP + 8MP Dual Front Camera 3200 mAh Battery Mediatek MT6750T Processor",
+    "price": 19990,
+    "star": "../mages/4.5-Star.png"
+}]

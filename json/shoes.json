@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "name": "Aero AMG Performance Running Shoes",
+    "link": "../images/shoes1.jpeg",
+    "desc": "Colour: Blue, Black 1 inch Heel Height ,Outer Material: Mesh, Synthetic Leather,Closure:Laced",
+    "price": 440,
+    "star": "../images/3-Star.png"
+}, {
+    "id": 2,
+    "name": "Footista Original Party Wear Shoes  (Black)",
+    "link": "../images/shoes2.jpeg",
+    "desc": "Colour: Black 0.5 inch Heel Height Outer Material: Synthetic Leather Inner Material: Suede Closure: Laced",
+    "price": 449,
+    "star": "../images/3-Star.png"
+}, {
+    "id": 3,
+    "name": "Woodland Outdoor Shoes (Brown)",
+    "link": "../images/shoes3.jpeg",
+    "desc": "Colour: Brown 0.2 inch Heel Height Outer Material: Genuine Leather",
+    "price": 2005,
+    "star": "../images/4-Star.png"
+}, {
+    "id": 4,
+    "name": "Nike DARWIN Sneakers  (Grey)",
+    "link": "../images/shoes4.jpeg",
+    "desc": "Colour: Grey Outer Material: Mesh",
+    "price": 3884,
+    "star": "../images/3.5-Star.png"
+}, {
+    "id": 5,
+    "name": "Get Glamr PEARL Boots  (Blue)",
+    "link": "../images/shoes5.jpeg",
+    "desc": "Colour: Blue 4 inch Heel Height Outer Material: Synthetic Leather Inner Material: Synthetic Closure: Zip",
+    "price": 1799,
+    "star": "../images/4-Star.png"
+}]

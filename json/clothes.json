@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "name": "Sweet Amour Top Without belt",
+    "link": "../images/clothes1.jpg",
+    "desc": "Sleeve Length: Sleeveless Dress,Type :Top,Dress Material:Bubble Georgette,Lining:Cotton, Embellishment: Buttons",
+    "price": 699,
+    "star": "../images/4-Star.png"
+                    }, {
+    "id": 2,
+    "name": "QUECHUA Arpenaz 100 Men's Hiking Rain Jacket By Decathlon",
+    "link": "../images/clothes2.jpg",
+    "desc": "Colour: Blue  Product Style : Jacket  Waterproof: Waterproof coating (2000 mm). Main seams sealed ",
+    "price": 1209,
+    "star": "../images/3.5-Star.png"
+                    }, {
+    "id": 3,
+    "name": "Shared Vision Dress",
+    "link": "../images/clothes3.jpg",
+    "desc": "Dress Material: Crepe",
+    "price": 599,
+    "star": "../images/3-Star.png"
+                    }, {
+    "id": 4,
+    "name": "The Time is Bright Dress",
+    "link": "../images/clothes4.jpg",
+    "desc": "Sleeve Length: Sleeveless  Dress Length Type: Mini Dress Type: Skater Dress Material: Scuba",
+    "price": 899,
+    "star": "../images/4-Star.png"
+                    }, {
+    "id": 5,
+    "name": "Fashion Blue Sleeveless Dress",
+    "link": "../images/clothes5.jpg",
+    "desc": "sleeve Length: Sleeveless Dress Length Type: Mini Dress Type: Skater Dress Material: Scuba",
+    "price": 699,
+    "star": "../images/4.5-Star.png"
+                    }]

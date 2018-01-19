@@ -1,0 +1,11 @@
+<div ng-controller="mobileCtrl">
+    <ul ng-repeat="i in show">
+        <li><img src="{{i.link}}" alt="" class="image">
+            <div class="info left"> {{i.name}}
+                <br>Desc : <br>{{i.desc}}
+                <br> Price : {{i.price}}
+                <br> <img src="{{i.star}}" alt="">
+            </div>
+        </li>
+    </ul>
+</div>

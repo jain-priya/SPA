@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Street Style Store</title>
+    <link rel="stylesheet" href="../design.css">
+    <script src="../../libs/angular.min.js"></script>
+    <script src="../bower_components/angular-route/angular-route.min.js"></script>
+    <script src="../js/app.js"></script>
+    <script src="../factory/factory.js"></script>
+    <script src="../controller/clothescontroller.js"></script>
+    <script src="../controller/mobilecontroller.js"></script>
+    <script src="../controller/shoescontroller.js"></script>
+    <script src="../spa-routes/route.js"></script>
+</head>
+
+<body ng-app="myApp">
+
+    <div class="main-menu">
+        <h2><a href="#/">Free Style Store</a></h2>
+        <ul>
+            <li><a ng-href="#/">Home</a></li>
+            <li><a ng-href="#/about">About Us</a></li>
+            <li><a ng-href="#/contact">Contact Us</a></li>
+        </ul>
+    </div>
+
+    <div id="container">
+        <div class="content clearfix">
+            <div class="section-1 left">
+                <h3>Products</h3>
+                <ul>
+                    <li>
+                        <a ng-href="#/shoes"><img src="../images/ShoesProduct.png" alt="Shoes" id="img1">
+                        </a>
+                    </li>
+                    <li>
+                        <a ng-href="#/mobiles"><img src="../images/mobileProduct.png" alt="Mobiles" id="img2"></a>
+                    </li>
+                    <li>
+                        <a ng-href="#/clothes"><img src="../images/clothesProduct.png" alt="Clothes" id="img3"></a>
+                    </li>
+                </ul>
+            </div>
+
+
+            <div class="section-2 right">
+
+                <ng-view>
+
+                </ng-view>
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
